@@ -126,8 +126,8 @@ const Footer = () => {
           </InsideFooterLinks>
           <InsideFooterLinks>
             <H4>Get in touch</H4>
-            <P>Biala Podlaska Sidorska 53</P>
-            <P>085-132567</P>
+            <P>Warsaw, Kamienna 53</P>
+            <P>099-132567</P>
             <P>info@randomemail.net</P>
           </InsideFooterLinks>
         </FooterLinks>
